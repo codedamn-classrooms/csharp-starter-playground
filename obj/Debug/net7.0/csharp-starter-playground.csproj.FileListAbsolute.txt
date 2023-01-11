@@ -1,0 +1,15 @@
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/bin/Debug/net7.0/csharp-starter-playground
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/bin/Debug/net7.0/csharp-starter-playground.deps.json
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/bin/Debug/net7.0/csharp-starter-playground.runtimeconfig.json
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/bin/Debug/net7.0/csharp-starter-playground.dll
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/bin/Debug/net7.0/csharp-starter-playground.pdb
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/csharp-starter-playground.csproj.AssemblyReference.cache
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/csharp-starter-playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/csharp-starter-playground.AssemblyInfoInputs.cache
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/csharp-starter-playground.AssemblyInfo.cs
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/csharp-starter-playground.csproj.CoreCompileInputs.cache
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/csharp-starter-playground.dll
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/refint/csharp-starter-playground.dll
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/csharp-starter-playground.pdb
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/csharp-starter-playground.genruntimeconfig.cache
+/Users/harish/Work/codedamn-classroom/csharp-starter-playground/obj/Debug/net7.0/ref/csharp-starter-playground.dll

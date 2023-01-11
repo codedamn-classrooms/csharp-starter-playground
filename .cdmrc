@@ -1,2 +1,2 @@
-tabs: ['Main.cs]
-run-button: ''
+tabs: ['Program.cs]
+run-button: 'dotnet run'
